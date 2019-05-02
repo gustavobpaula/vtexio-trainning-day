@@ -1,0 +1,1 @@
+# vtexio-trainning-day
